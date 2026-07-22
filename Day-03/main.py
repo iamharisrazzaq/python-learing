@@ -1,0 +1,1 @@
+print("Starting day 3")
